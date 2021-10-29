@@ -15,8 +15,16 @@ router.post('/notes', (req, res) => {
   noteData.push(req.body)
   fs.appendFile(path.join(__dirname, '../db/db.json'), JSON.stringify(noteData));
   return res.status(200).json(noteData)
-  
 })
 
 // API ROUTE: DELETE /api/notes/:id
+router.delete('/:id', async (req, res) => {
+  // delete a category by its `id` value
+  try {
+    const byeData = await Category.destroy({
+      where: {
+        id: req.params.id
+      }
+});
+
 module.exports = router;
