@@ -1,9 +1,7 @@
 # Homework-11-NoteTaker
 
 ## Description  
-Assignment: modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-- Done: The application’s front end has already been created. 
-- To do: build the back end, connect the two, and then deploy the entire application to Heroku.
+Assignment: Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
   
 ## Table of Contents
 - [Installation](#install)
@@ -16,7 +14,7 @@ Assignment: modify starter code to create an application called Note Taker that 
 - [Questions](#questions)  
 
   ## Installation  
-  To use this node.js application, first run the command "npm i" from the package.json file. Then from the index.js file run the command "node index.js" and answer the prompts. Once you complete this, a README.md file will be generated from your responses.  
+  To use this node.js application,
   
 ## User Story
 ```
@@ -44,6 +42,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Credits  
 Brooke Jones  
+
 ## License MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 https://www.mit.edu/~amini/LICENSE.md  
