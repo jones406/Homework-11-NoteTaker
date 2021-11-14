@@ -18,6 +18,8 @@ app.use('/', htmlRoutes);
 // localhost:3001/api
 app.use('/api', apiRoutes);
 
-app.listen(PORT, () => {
-  console.log(`Example app listening at http://localhost:${PORT}`);
-});
+// app.listen(PORT, () => {
+//   console.log(`Example app listening at http://localhost:${PORT}`);
+// });
+
+app.listen(process.env.PORT || 5000);

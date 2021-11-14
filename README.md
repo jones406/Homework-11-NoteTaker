@@ -1,7 +1,7 @@
 # Homework-11-NoteTaker
 
 ## Description  
-Assignment: Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This application, called Note Taker, can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
   
 ## Table of Contents
 - [Installation](#install)
@@ -14,7 +14,9 @@ Assignment: Create an application called Note Taker that can be used to write an
 - [Questions](#questions)  
 
   ## Installation  
-  To use this node.js application,
+  To use this application, please visit 
+  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
   
 ## User Story
 ```
