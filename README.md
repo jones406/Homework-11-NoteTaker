@@ -14,8 +14,8 @@ This application, called Note Taker, can be used to write and save notes. This a
 - [Questions](#questions)  
 
   ## Installation  
-  To use this application, please visit 
-  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+  To use this application, please visit https://brookenoteapp.herokuapp.com/
+  - ![Image of app](/public/assets/images/appimage.png "Optional Title")
 
   
 ## User Story
@@ -50,6 +50,7 @@ Brooke Jones
 https://www.mit.edu/~amini/LICENSE.md  
     
 ## Contribute  
+ Future development: delete and edit notes. 
  Suggestions can be provided at the email link below.  
 
 ## Test  
