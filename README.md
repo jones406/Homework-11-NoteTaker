@@ -43,7 +43,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Credits  
-Brooke Jones  
+Brooke Jones
+Tyler Arthur: Tutor
+Used class activity examples, coded alongside Mary Lou Hoover.  
 
 ## License MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
